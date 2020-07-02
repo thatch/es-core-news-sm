@@ -1,7 +1,7 @@
 Metadata-Version: 1.0
 Name: es_core_news_sm
-Version: 2.2.0
-Summary: Spanish multi-task CNN trained on the AnCora and WikiNER corpus. Assigns context-specific token vectors, POS tags, dependency parse and named entities. Supports identification of PER, LOC, ORG and MISC entities.
+Version: 2.3.0
+Summary: Spanish multi-task CNN trained on UD Spanish AnCora and WikiNER. Assigns context-specific token vectors, POS tags, dependency parses and named entities.
 Home-page: https://explosion.ai
 Author: Explosion
 Author-email: contact@explosion.ai
